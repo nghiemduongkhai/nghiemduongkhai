@@ -22,9 +22,11 @@
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"/> </a> </p>
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=nghiemduongkhai&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nghiemduongkhai&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nghiemduongkhai&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api?username=nghiemduongkhai&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=nghiemduongkhai&theme=radical&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nghiemduongkhai&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+###
 
 ### ✍️Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
