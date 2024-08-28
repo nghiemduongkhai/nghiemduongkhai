@@ -1,4 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F2F70F&background=FF0000&center=true&vCenter=true&width=435&lines=WELCOM+TO+MY+PAGE+!!!" alt="Typing SVG" /></a>
+<div align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F2F70F&background=FF0000&center=true&vCenter=true&width=435&lines=WELCOM+TO+MY+PAGE+!!!" alt="Typing SVG" /></a>
+</div>
+
 ## I'm Nghiem Duong
 <picture>
   <source
